@@ -61,7 +61,13 @@ NO COBOL NÓS UTILIZAMOS AS COLUNAS E LINHAS COMO GUIAS PARA CODIFICAR:
    ACCEPT WS-MOSTRA FROM DATE YYYYMMDD
      DISPLAY WS-MOSTRA
      
-- MOVE: 
+- MOVE: transfere dados de uma área para outra.
+
+- SET: atribuir um valor.
+
+- PERFORM: Faz a execução do que foi instruíndo. 
+
+- oie
 
 
 
