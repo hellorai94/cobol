@@ -71,11 +71,15 @@ NO COBOL NÓS UTILIZAMOS AS COLUNAS E LINHAS COMO GUIAS PARA CODIFICAR:
   
   COMPUTE WS-RESULT = 9 + 13
   
+- INSPECT: conta a quantidade de ocorrências de determinado caractere em um item. Realiza também a substitição de caractere pelo que foi especificado. 
   
-
-
-
-
+   INSPECT WS-SEQUE TALLYING WS-TOTAL FOR ALL '3'
+           
+   INSPECT WS-SENHA REPLACING ALL '3' BY '4'
+ 
+ - INITIALISE: 
+            
+          
 # INSTRUÇÕES (AÇÃO DE MANIPULAÇÃO) # 
 
 
