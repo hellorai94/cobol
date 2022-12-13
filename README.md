@@ -67,7 +67,11 @@ NO COBOL NÓS UTILIZAMOS AS COLUNAS E LINHAS COMO GUIAS PARA CODIFICAR:
 
 - PERFORM: Faz a execução do que foi instruíndo. 
 
-- oie
+- COMPUTE: utilizado como um indicador/instrução para realizar operações.
+  
+  COMPUTE WS-RESULT = 9 + 13
+  
+  
 
 
 
